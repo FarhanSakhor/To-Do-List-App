@@ -19,7 +19,7 @@ button {
   display: flex;
   flex-direction: column;
   padding: 14px;
-  background: #eff6ff;
+  background: #011415;
   gap: 14px;
 }
 
@@ -78,7 +78,9 @@ p {
   gap: 14px;
   padding: 14px;
   border-radius: 14px;
-  background: white;
+  background: rgba(0, 255, 255, 0.734);
+  font-weight: 1000;
+  font-size: large;
 }
 
 .todoItem p {
